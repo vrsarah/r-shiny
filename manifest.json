@@ -2504,7 +2504,8 @@
         "description": {
           "Package": "duckdb",
           "Version": "0.7.1",
-          "Repository": "CRAN"
+          "URL": "https://cran.r-project.org/package=duckdb",
+          "Repository": "RSPM"
         }
     }
   },
