@@ -2521,7 +2521,7 @@
         "Encoding": "UTF-8",
         "Built": "R 4.3.0; x86_64-pc-linux-gnu; 2023-04-21 21:46:26 UTC; unix"
       }
-    },
+    }
   },
   "files": {
     "app.R": {
