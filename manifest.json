@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "locale": "C",
+  "locale": "en_US.UTF-8",
   "platform": "4.3.3",
   "metadata": {
     "appmode": "shiny",
