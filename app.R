@@ -28,7 +28,7 @@ saturday_bikes <- read_csv("data/saturday_bikes.csv")
 # ////////////////////////////////////////////////////////////////////////////
 ui <- dashboardPage(
   skin = "red",
-  dashboardHeader(title = "Capitol Bikeshare Availability - May 14, 2022"),
+  dashboardHeader(title = "€Capitol Bikeshare Availability - May 14, 2022"),
   dashboardSidebar(disable = TRUE),
   dashboardBody(
     box(title = "Station Map",
