@@ -18,7 +18,7 @@
       "description": {
         "Package": "snow",
         "Title": "Simple Network of Workstations",
-        "Version": "0.4-4",
+        "Version": "0.4-4ab",
         "Author": "Luke Tierney, A. J. Rossini, Na Li, H. Sevcikova",
         "Description": "Support for simple parallel computing in R.",
         "Maintainer": "Luke Tierney <luke-tierney@uiowa.edu>",
