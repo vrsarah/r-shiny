@@ -12,7 +12,7 @@
   "packages": {
     "snow": {
       "Package": "snow",
-      "Version": "0.4-4",
+      "Version": "0.4-4ab",
       "Source": "CRAN",
       "Repository": "http://rspm/default/latest",
       "description": {
